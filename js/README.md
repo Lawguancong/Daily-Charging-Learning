@@ -23,5 +23,23 @@
 
 
 
+[类数组](https://github.com/Lawguancong/Daily-Charging-Learning/issues/12)
+
+[异步方案](https://github.com/Lawguancong/Daily-Charging-Learning/issues/13)
+
+[异构、同构 &&异步、同步](https://github.com/Lawguancong/Daily-Charging-Learning/issues/14)
+
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
+
+
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
+
+
+
+
+### 性能优化
+
+[优化多个await | 正确处理多个await](https://github.com/Lawguancong/Daily-Charging-Learning/issues/15)
 
