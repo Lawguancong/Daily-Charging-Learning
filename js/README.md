@@ -31,10 +31,10 @@
 
 [setTimeout倒计时为什么会出现误差？](https://github.com/Lawguancong/Daily-Charging-Learning/issues/16)
 
-
-
 [setTimeout Promise async/await 区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/17)
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
+[setTimeout、setInterval、setImmediate](https://github.com/Lawguancong/Daily-Charging-Learning/issues/18)
+
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
