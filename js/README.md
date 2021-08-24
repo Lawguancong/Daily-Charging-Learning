@@ -20,9 +20,6 @@
 
 [async await 和 generate关系](https://github.com/Lawguancong/Daily-Charging-Learning/issues/11)
 
-
-
-
 [类数组](https://github.com/Lawguancong/Daily-Charging-Learning/issues/12)
 
 [异步方案](https://github.com/Lawguancong/Daily-Charging-Learning/issues/13)
@@ -35,9 +32,13 @@
 
 [setTimeout、setInterval、setImmediate](https://github.com/Lawguancong/Daily-Charging-Learning/issues/18)
 
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[for of, for in, forEach, map, Object.keys, Object.values, Object.entries](https://github.com/Lawguancong/Daily-Charging-Learning/issues/20)
+
+[typeof & instanceof区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/19)
+
+[JSON.stringify() && JSON.parse()](https://github.com/Lawguancong/Daily-Charging-Learning/issues/21)
+
+
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
