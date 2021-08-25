@@ -1,3 +1,4 @@
+### JavaScript
 [说说this吧，它和globalthis区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/1)
 
 [call apply bind区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/2)
@@ -39,14 +40,36 @@
 [JSON.stringify() && JSON.parse()](https://github.com/Lawguancong/Daily-Charging-Learning/issues/21)
 
 
+[闭包closure](https://github.com/Lawguancong/Daily-Charging-Learning/issues/23)
+
+[柯里化Currying](https://github.com/Lawguancong/Daily-Charging-Learning/issues/24)
+
+[柯里化 & 闭包 关系](https://github.com/Lawguancong/Daily-Charging-Learning/issues/25)
+
+
+[compose函数合成](https://github.com/Lawguancong/Daily-Charging-Learning/issues/26)
+
+[柯里化curring 合成函数compose区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/27)
+
+
+
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
-
-
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
 
 ### 性能优化
 
 [优化多个await | 正确处理多个await](https://github.com/Lawguancong/Daily-Charging-Learning/issues/15)
+
+
+### 其它
+[npx](https://github.com/Lawguancong/Daily-Charging-Learning/issues/22)
+
+
+
 
