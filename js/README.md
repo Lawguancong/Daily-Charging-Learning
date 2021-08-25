@@ -39,26 +39,23 @@
 
 [JSON.stringify() && JSON.parse()](https://github.com/Lawguancong/Daily-Charging-Learning/issues/21)
 
-
 [闭包closure](https://github.com/Lawguancong/Daily-Charging-Learning/issues/23)
 
 [柯里化Currying](https://github.com/Lawguancong/Daily-Charging-Learning/issues/24)
 
 [柯里化 & 闭包 关系](https://github.com/Lawguancong/Daily-Charging-Learning/issues/25)
 
-
-[compose函数合成](https://github.com/Lawguancong/Daily-Charging-Learning/issues/26)
-
 [柯里化curring 合成函数compose区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/27)
-
-
 
 [赋值拷贝 浅拷贝 深拷贝](https://github.com/Lawguancong/Daily-Charging-Learning/issues/28)
 
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[浅比较 深比较](https://github.com/Lawguancong/Daily-Charging-Learning/issues/31)
+
+[==和===和Object.is()](https://github.com/Lawguancong/Daily-Charging-Learning/issues/30)
+
 
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
 
@@ -70,6 +67,12 @@
 ### 其它
 [npx](https://github.com/Lawguancong/Daily-Charging-Learning/issues/22)
 
+### 手写代码
+[深拷贝(手写代码)](https://github.com/Lawguancong/Daily-Charging-Learning/issues/29)
+
+[深比较(手写代码)](https://github.com/Lawguancong/Daily-Charging-Learning/issues/32)
+
+[compose函数合成(手写代码)](https://github.com/Lawguancong/Daily-Charging-Learning/issues/26)
 
 
 
