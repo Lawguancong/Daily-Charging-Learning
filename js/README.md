@@ -53,8 +53,11 @@
 
 [==和===和Object.is()](https://github.com/Lawguancong/Daily-Charging-Learning/issues/30)
 
+[栈stack 堆heap](https://github.com/Lawguancong/Daily-Charging-Learning/issues/33)
 
-[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+
+
+
 
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
