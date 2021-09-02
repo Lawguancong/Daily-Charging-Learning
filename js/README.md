@@ -55,12 +55,18 @@
 
 [栈stack 堆heap](https://github.com/Lawguancong/Daily-Charging-Learning/issues/33)
 
+[原型 原型链 继承](https://github.com/Lawguancong/Daily-Charging-Learning/issues/34)
 
+[new过程](https://github.com/Lawguancong/Daily-Charging-Learning/issues/35)
 
+[super](https://github.com/Lawguancong/Daily-Charging-Learning/issues/36)
 
 
 [](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
-
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
+[](https://github.com/Lawguancong/Daily-Charging-Learning/issues/)
 
 ### 性能优化
 
