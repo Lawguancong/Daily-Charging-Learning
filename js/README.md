@@ -70,14 +70,21 @@
 
 
 
-## 浏览器
+## 浏览器 & http
 [浏览器本地存储方式(cookie sessionStorage localStorage indexDB)](https://github.com/Lawguancong/Daily-Charging-Learning/issues/37)
+
+[缓存](https://github.com/Lawguancong/Daily-Charging-Learning/issues/46)
+
+[离线缓存](https://github.com/Lawguancong/Daily-Charging-Learning/issues/45)
 
 [cookie session token](https://github.com/Lawguancong/Daily-Charging-Learning/issues/38)
 
 [跨域 跨站 第一方 第三方](https://github.com/Lawguancong/Daily-Charging-Learning/issues/39)
 
 [CORS 简单请求和复杂请求的区别](https://github.com/Lawguancong/Daily-Charging-Learning/issues/40)
+
+
+
 
 
 
